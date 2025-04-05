@@ -34,8 +34,11 @@ git
 cd with-multistage
 docker build -t flask-multi-stage .
 docker run -p 5000:5000 flask-multi-stage
-
+## Test flask app
 Open: http://localhost:5000
+## Compare the image sizes
+Run this command
+docker images
 
 ## how to run single stage
 
