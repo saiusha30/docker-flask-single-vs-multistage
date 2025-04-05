@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code and other editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Byte-compiled / cache
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Pytest and coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.cache/
+.pytest_cache/
+nosetests.xml
+test-results.xml
+
+# Git
+.git/
+
+# System
+Thumbs.db
+
