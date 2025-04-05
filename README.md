@@ -5,7 +5,8 @@ This project demonstrates the difference between a **multi-stage Docker build** 
 Built with simplicity in mind — for learning, portfolio, and production-readiness.
 
 ## clone repositary
-https://github.com/saiusha30/docker-flask-single-vs-multistage.git
+https://github.com/saiusha30/docker-flask-single-vs-multistage.git ,
+
 cd flask-docker-build-comparison
 
 ## 📦 What’s Inside?
